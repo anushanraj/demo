@@ -1,0 +1,25 @@
+This is a test repo
+
+Practice on basic git command
+
+
+1. Create a new repo
+
+2. create new folder in the system and open cmd
+
+3. clone the repo
+    git clone <url>
+
+4. Add new file to folder
+
+5. check status
+   git status
+
+6. Add file to the tracked state
+   git add .
+
+7. commit to local repo
+   git commit -m "commit message"
+
+8. push to git repo
+   git push
